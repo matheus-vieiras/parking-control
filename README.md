@@ -1,0 +1,2 @@
+# parking-control
+Desenvolvi um projeto de controle de estacionamento no qual  aplico desde a base do Spring Framework, Injeção de dependências,  Beans, definição Spring Boot e também a construção de um projeto Spring Boot (Parking Control API) do zero, com projetos como Spring MVC,  Spring Data JPA e Spring Validation para a criação de uma API com Pageable,  métodos getAll, getOne, post, delete, update e Global Custom Date. Utilizei o banco de dados PostgreSQL e a aplicação com o PostMan
